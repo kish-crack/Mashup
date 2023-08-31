@@ -1,5 +1,5 @@
 # Mashup Generator From Youtube Video And Emailing<br>
-This is a command-line tool that helps you to download multiple music videos from YouTube, convert them to audio, trim them to a specified duration, and merge them into a single audio file.<br>
+This command-line tool simplifies the process of creating music mashups from YouTube videos and sending them via email. It allows you to download multiple music videos from YouTube, convert them into audio tracks, trim them to a specific duration, and then merge them into a single audio file.<br>
 ## Getting Started
 ### Prerequisites
 1. Python 3.x <br>
@@ -7,7 +7,7 @@ This is a command-line tool that helps you to download multiple music videos fro
 3. MoviePy (`pip install moviepy`)<br>
 4. Requests (`pip install requests`)<br>
 ### Installation
-1. Clone the repository: `git clone https://github.com/username/repo.git` <br>
+1. Clone the repository: `git clone https://github.com/kish-crack/Mashup.git` <br>
 2. Change directory to the project: `cd youtube-music-downloader`<br>
 3. Install the required dependencies: `pip install -r requirements.txt`<br>
 ### Usage
